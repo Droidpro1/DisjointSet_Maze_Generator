@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/*
+/.idea/*
+DisjointSet_Maze_Generator.iml
